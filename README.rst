@@ -1,3 +1,11 @@
+Deprecated
+------------
+
+This module is not actively maintained. Please, use `flask.cli`__ instead.
+
+__ http://flask.pocoo.org/docs/0.12/cli/
+
+
 Flask-Script
 ==============
 
