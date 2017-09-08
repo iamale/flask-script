@@ -1,7 +1,7 @@
 Deprecated
 ------------
 
-This module is not actively maintained. Please, use `flask.cli`__ instead.
+While the maintainers are willing to merge PR's, they are not actively developing features. As of Flask 0.11, Flask includes `a built-in CLI tool`__, and that may fit your needs better.
 
 __ http://flask.pocoo.org/docs/0.12/cli/
 
