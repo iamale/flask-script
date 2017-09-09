@@ -10,7 +10,7 @@ Flask-Script
 :+1: 2
 
 
-__ http://flask.pocoo.org/docs/0.12/cli/
+__ http://flask.pocoo.org/docs/latest/cli/
 
 
 The **Flask-Script** extension provides support for writing external scripts in Flask. This includes running a development server, a customised Python shell, scripts to set up your database, cronjobs, and other command-line tasks that belong outside the web application itself.
